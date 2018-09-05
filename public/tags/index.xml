@@ -21,20 +21,20 @@
     </item>
     
     <item>
+      <title>Fullstack</title>
+      <link>/tags/fullstack/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fullstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Keras</title>
       <link>/tags/keras/</link>
       <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/keras/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lstm</title>
-      <link>/tags/lstm/</link>
-      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/lstm/</guid>
       <description></description>
     </item>
     
@@ -66,11 +66,20 @@
     </item>
     
     <item>
-      <title>Rnn</title>
-      <link>/tags/rnn/</link>
+      <title>Rnn_lstm</title>
+      <link>/tags/rnn_lstm/</link>
       <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rnn/</guid>
+      <guid>/tags/rnn_lstm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stockresearch</title>
+      <link>/tags/stockresearch/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/stockresearch/</guid>
       <description></description>
     </item>
     
