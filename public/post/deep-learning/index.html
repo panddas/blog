@@ -3,7 +3,7 @@
   <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
- <title>Etc</title>
+ <title>深度学习、Tensorflow、keras 到底是怎么回事</title>
 
 
 
@@ -24,9 +24,6 @@
 
 <link href="/css/custom.css" rel="stylesheet">
 <link rel="shortcut icon" href="/img/favicon.png">
-
-<link href="/categories/etc/index.xml" rel="alternate" type="application/rss+xml" title="Smartxt Blog " />
-<link href="/categories/etc/index.xml" rel="feed" type="application/rss+xml" title="Smartxt Blog " />
 
 
 </head>
@@ -107,77 +104,103 @@
         </div>
         <div class="row">
           <div class="col-md-10 main-content col-md-offset-1">
-               <div class="row">
-  <div class="col-md-10 category-header">
-    <a href="">CATEGORY: Etc </a>
-  </div>
-</div>
+            
 
-<div class="row">
-  <div class="col-md-10 category-description">
-  
-  </div>
-</div>
-
-
-
-<div class="row content">
-  
-  <div class="col-md-6 content-excerpt">
-    
-      <div class="row">
-        <div class="col-md-12">
-          <div class="row content-date">
-            September 05
-          </div>
-          <div class="row content-title">
-            <h2> <a href="/post/full-stack/ "> 为什么要做全栈金融分析师 </a> </h2>
-          </div>
-          <div class="row content-summary">
-            <p> <blockquote>
-<p>近年来在业务上设定了一个小目标，就是成为全栈证券分析师。词是我生造的，是全栈工程师和证券分析师的组合。今年是我担任证券分析师的第10个年头，经历了从普通分析师到首席的整个过程，也看到了分析师行业的10年<strong>变迁</strong>。
-</p> </p>
-            <a class="more-link" href="/post/full-stack/ "> READ THE POST </a>
-          </div>
-        </div>
+<div class="col-md-12 entry">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="entry-meta">
+        September 05
       </div>
     </div>
-    
-    <div class="col-md-6 content-image" style="background-image: url(/img/portfolio/2018-9-5%2009-49-7.jpg)">
-    </div>
-    
   </div>
-  
-    
-
-  <div class="row content">
-    
-    <div class="col-md-6 content-image" style="background-image: url(/img/portfolio/2018-9-4%2020-49-7.jpg)">
-    </div>
-    
-
-    
-    <div class="col-md-6 content-excerpt">
-      
-        <div class="row">
-          <div class="col-md-12">
-            <div class="content-date">
-              September 04
-            </div>
-            <div class="content-title">
-              <h2> <a href="/post/today/ "> hello, the world! </a> </h2>
-            </div>
-            <div class="content-summary">
-              <p> 最近学习的东西有点多，一直想找个地方记录一下。今天用github/hugo/netlify建立了这个博客，也是本人第一个serverless架构的服务。向着全栈的目标又前进了一步。 </p>
-              <a class="more-link" href="/post/today/ "> READ THE POST </a>
-            </div>
-          </div>
-        </div>
+  <div class="row">
+    <div class="col-md-12">
+      <div class="entry-header">
+       深度学习、Tensorflow、keras 到底是怎么回事
       </div>
-
     </div>
-    
-    
+  </div>
+  <div class="row">
+    <div class="col-md-2">
+      <div class="entry-sidebar">
+        <div class="entry-sidebar-title">CATEGORIES</div>
+        
+        <div class="entry-categories">
+          <a href="/categories/code">code</a>
+        </div>
+        
+        <div class="entry-categories">
+          <a href="/categories/etc">etc</a>
+        </div>
+        
+
+        <div class="entry-sidebar-title">Tags</div>
+        
+        <div class="entry-tags">
+          <a href="/tags/cnn">cnn</a>
+        </div>
+        
+        <div class="entry-tags">
+          <a href="/tags/fullstack">fullstack</a>
+        </div>
+        
+        <div class="entry-tags">
+          <a href="/tags/keras">keras</a>
+        </div>
+        
+        <div class="entry-tags">
+          <a href="/tags/mlp">mlp</a>
+        </div>
+        
+        <div class="entry-tags">
+          <a href="/tags/python">python</a>
+        </div>
+        
+        <div class="entry-tags">
+          <a href="/tags/r">r</a>
+        </div>
+        
+        <div class="entry-tags">
+          <a href="/tags/rnn_lstm">rnn_lstm</a>
+        </div>
+        
+        <div class="entry-tags">
+          <a href="/tags/stockresearch">stockresearch</a>
+        </div>
+        
+        <div class="entry-tags">
+          <a href="/tags/tensorflow">tensorflow</a>
+        </div>
+        
+      </div>
+    </div>
+    <div class="col-md-10">
+      <div class="entry-content">
+        <blockquote>
+<p>深度学习属于比较新的知识，可能许多人都是在碎片化地学习，缺乏一个整体上的认识，因此写一个帖子总结一下，尽可能浅显易懂。
+</p>
+
+<p>深度学习是我们的目标，实现这一目标有许多种算法，MLP/CNN/RNN/LSTM等等，这些算法统称为神经网络算法。
+<strong>这就好比地板脏了要打扫，实现打扫地板这个目标，有许多种方法，比如用笤帚扫(MLP)、用布擦(CNN)、用吸尘器(LSTM)，统称清洁工具。</strong></p>
+
+<p>后来谷歌开发了Tensorflow这个工具，它使用c++对各种神经网络算法进行了实现和封装，使之便于使用，并且后来还以AlphaGO为样板打败了人类。
+<strong>这就好比买了一台扫地机，它充上电既能扫地又能拖地还能吸尘，自己会跑来跑去打扫，得比人扫得还干净。</strong></p>
+
+<p>现在你能明白吧，掌握了tensorflow，就相当于用机械代替手工劳动了。但是tensorflow使用过程中，有许多步骤是重复的，而且本来很简单输入输出维度，但搞来搞去不知怎么就成多维了，大家都有点犯怵，于是Keras横空出世。深度学习的门槛进一步降低。
+<strong>这就好比扫地机用着爽，但是灰尘盒还得自己清理，虽然说清理的步骤就那么几步，但是容易把手搞脏，不如让老公来做。</strong></p>
+
+<p>不过，我还是建议tensorflow和keras两者结合起来学习。keras的过度简化，可能会造成理解困难。
+<strong>这就好比老公干活不仔细，还得自己盯着点。</strong>顺便说一句，除了python外，keras在R语言上也实现了封装。R语言的文档你懂的，Just like the old times~</p>
+</blockquote>
+      </div>
+    </div>
+  </div>
+
+  <hr/>
+  
+
+</div>
 
           </div>
         </div>
