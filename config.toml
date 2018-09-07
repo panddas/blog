@@ -1,4 +1,8 @@
-baseurl = "/"
+baseurl = "/public"
+
+# baseurl = "/public"  # set on tencent server
+# baseurl = "/"  # set on netlify.com server
+
 # relativeurls = true
 title = "Smartxt Blog "
 theme = "hugo-tracks-theme"

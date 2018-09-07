@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Smartxt Blog </title>
-    <link>/tags/</link>
+    <link>/public/tags/</link>
     <description>Recent content in Tags on Smartxt Blog </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cnn</title>
-      <link>/tags/cnn/</link>
+      <link>/public/tags/cnn/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cnn/</guid>
+      <guid>/public/tags/cnn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fullstack</title>
-      <link>/tags/fullstack/</link>
+      <link>/public/tags/fullstack/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/fullstack/</guid>
+      <guid>/public/tags/fullstack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keras</title>
-      <link>/tags/keras/</link>
-      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <link>/public/tags/keras/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/keras/</guid>
+      <guid>/public/tags/keras/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mlp</title>
-      <link>/tags/mlp/</link>
+      <link>/public/tags/mlp/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/mlp/</guid>
+      <guid>/public/tags/mlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>/tags/python/</link>
-      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <link>/public/tags/python/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/python/</guid>
+      <guid>/public/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <link>/public/tags/r/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r/</guid>
+      <guid>/public/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rnn_lstm</title>
-      <link>/tags/rnn_lstm/</link>
-      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <link>/public/tags/rnn_lstm/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rnn_lstm/</guid>
+      <guid>/public/tags/rnn_lstm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stockresearch</title>
-      <link>/tags/stockresearch/</link>
+      <link>/public/tags/stockresearch/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/stockresearch/</guid>
+      <guid>/public/tags/stockresearch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tensorflow</title>
-      <link>/tags/tensorflow/</link>
-      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <link>/public/tags/tensorflow/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tensorflow/</guid>
+      <guid>/public/tags/tensorflow/</guid>
       <description></description>
     </item>
     

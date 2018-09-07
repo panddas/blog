@@ -2,21 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Smartxt Blog </title>
-    <link>/tags/r/</link>
+    <link>/public/tags/r/</link>
     <description>Recent content in R on Smartxt Blog </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/public/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Word2vec、词向量、Embedding，这四个概念是什么</title>
+      <link>/public/post/embedding/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/public/post/embedding/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;怎么是四个概念？明明只有三个词。因为Embedding是一语双关。同步学习tensorflow和keras，Embedding是遇到的第一个难点，各文献语焉不详，着实让我思考了几分钟。下面是我的收获&amp;hellip;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>深度学习、Tensorflow、keras 到底是怎么回事</title>
-      <link>/post/deep-learning/</link>
+      <link>/public/post/deep-learning/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/deep-learning/</guid>
+      <guid>/public/post/deep-learning/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;深度学习属于比较新的知识，可能许多人都是在碎片化地学习，缺乏一个整体上的认识，因此写一个帖子总结一下，尽可能浅显易懂。
 &lt;/p&gt;</description>
@@ -24,10 +35,10 @@
     
     <item>
       <title>hello, the world!</title>
-      <link>/post/today/</link>
+      <link>/public/post/today/</link>
       <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/today/</guid>
+      <guid>/public/post/today/</guid>
       <description>最近学习的东西有点多，一直想找个地方记录一下。今天用github/hugo/netlify建立了这个博客，也是本人第一个serverless架构的服务。向着全栈的目标又前进了一步。</description>
     </item>
     

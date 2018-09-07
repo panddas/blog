@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stockresearch on Smartxt Blog </title>
-    <link>/tags/stockresearch/</link>
+    <link>/public/tags/stockresearch/</link>
     <description>Recent content in Stockresearch on Smartxt Blog </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/stockresearch/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/public/tags/stockresearch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>为什么要做全栈金融分析师</title>
-      <link>/post/full-stack/</link>
+      <link>/public/post/full-stack/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/full-stack/</guid>
+      <guid>/public/post/full-stack/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;近年来在业务上设定了一个小目标，就是成为全栈证券分析师。词是我生造的，是全栈工程师和证券分析师的组合。今年是我担任证券分析师的第10个年头，经历了从普通分析师到首席的整个过程，也看到了分析师行业的10年&lt;strong&gt;变迁&lt;/strong&gt;。
 &lt;/p&gt;</description>

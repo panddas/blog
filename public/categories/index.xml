@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Smartxt Blog </title>
-    <link>/categories/</link>
+    <link>/public/categories/</link>
     <description>Recent content in Categories on Smartxt Blog </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/public/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code</title>
-      <link>/categories/code/</link>
-      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <link>/public/categories/code/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/code/</guid>
+      <guid>/public/categories/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Etc</title>
-      <link>/categories/etc/</link>
+      <link>/public/categories/etc/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/etc/</guid>
+      <guid>/public/categories/etc/</guid>
       <description></description>
     </item>
     
